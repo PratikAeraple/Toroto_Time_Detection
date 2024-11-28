@@ -1,0 +1,18 @@
+2024/11/28 09:13:11 Database credentials are not set in environment variables
+2024/11/28 09:14:06 Database credentials are not set in environment variables
+2024/11/28 09:19:06 Database credentials are not set in environment variables
+2024/11/28 09:32:09 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:09 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:09 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:09 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:09 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:09 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:09 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time

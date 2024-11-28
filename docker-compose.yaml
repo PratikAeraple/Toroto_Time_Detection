@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      - DB_HOST=db
+      - DB_USER=go_user
+      - DB_PASS=qwedsa@123
+      - DB_NAME=toronto_time_db
+  db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password
+      MYSQL_DATABASE: toronto_time_db
+      MYSQL_USER: go_user
+      MYSQL_PASSWORD: qwedsa@123
+    ports:
+      - "3306:3306"
