@@ -16,3 +16,12 @@
 2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
 2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
 2024/11/28 09:32:38 Error scanning row: sql: Scan error on column index 1, name "timestamp": unsupported Scan, storing driver.Value type []uint8 into type *time.Time
+2024/11/28 10:27:42 Logging initialized
+2024/11/28 10:27:42 Database connection established successfully
+2024/11/28 10:27:42 Server is starting on port 8080...
+2024/11/28 10:27:56 Received request on /current-time endpoint
+2024/11/28 10:27:56 Current time returned: 2024-11-28T10:27:56-05:00
+2024/11/28 10:28:01 Received request on /current-time endpoint
+2024/11/28 10:28:01 Current time returned: 2024-11-28T10:28:01-05:00
+2024/11/28 10:28:15 Received request on /time-logs endpoint
+2024/11/28 10:28:15 Time logs successfully returned
